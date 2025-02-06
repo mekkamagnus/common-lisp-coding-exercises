@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       D2DF9BE8-E629-4539-AB64-D751F8BFC3DA
+:END:
 #+title: Common Lisp Coding Exercises
 #+description: A collection of coding exercises implemented using common lisp
 
