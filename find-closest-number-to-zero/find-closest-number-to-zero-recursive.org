@@ -4,8 +4,19 @@
 #+title: Find Closest Number To Zero
 
 
-Brute
+Brute Approach
 
-Recursive 
+Recursive Approach
 
-Reduce
+Reduce/Fold Approach
+
+Sorting Approach
+
+Mapping with Tuple Comparison
+
+Heap/Priority Queue Approach
+
+
+
+
+
