@@ -5,4 +5,5 @@
 #+description: A collection of coding exercises implemented using common lisp
 
 
-
+# Coding Problems 
+find the closest number to zero
