@@ -8,4 +8,4 @@
 My goal is to build a daily habit of solving coding problems in my favorite language, Common Lisp
 
 * Coding Problems 
-find the closest number to zero
+- find the closest number to zero
